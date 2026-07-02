@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Rohitt 👋
 
-<!--
-**rohitt-web/rohitt-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student who enjoys building projects, exploring technology, and learning something new every day.
 
-Here are some ideas to get you started:
+## 🌊 Current Project
+- Webshore
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Interests
+- Web Development
+- Open Source
+- Nature
+- Continuous Learning
+
+## 📫 Connect
+- Instagram: @rohitt_web
+- Website: (your Webshore URL)
+
+> "The beginning of a journey isn't always loud. Sometimes, it's as quiet as a sunset."
