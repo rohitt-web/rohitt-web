@@ -13,6 +13,6 @@ I'm a student who enjoys building projects, exploring technology, and learning s
 
 ## 📫 Connect
 - Instagram: @rohitt_web
-- Website: https://www-webshore-com.lovable.app
+- Website: https://www-webshore-net.lovable.app
 
 > "The beginning of a journey isn't always loud. Sometimes, it's as quiet as a sunset."
